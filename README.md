@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Cybersecurity
 - 👦 Personal Portfolio : [myinfo](https://myinfo-sks.vercel.app)
 - 🧑🏻‍💻 In my free time, I solve problems on Leetcode and Codestudio
+- ❓ Ask me about React and NextJs
 
 <br/>
 
