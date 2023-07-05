@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=random)
 
 <hr/>
 
