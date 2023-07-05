@@ -5,12 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Cybersecurity
-- 🌱 I’m currently learning Cybersecurity
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 👨‍💻 Enthusiastic and ambitious Full Stack Developer
+- 🌱 I’m currently learning Cybersecurity
+- 👦 Personal Portfolio : [myinfo](https://myinfo-sks.vercel.app)
+- 🏸 Hobbies - Playing badminton and video games, listening to music
+
+
