@@ -28,9 +28,9 @@ Here are some ideas to get you started:
   </div>
 
 <br/>
-
+<div align="center">
   <img width="80%" src="https://readme-jokes.vercel.app/api?&theme=nightOwl" alt="Jokes Card" />
-
+</div>
 <hr/>
 
 - 👨‍💻 Enthusiastic and ambitious Full Stack Developer
