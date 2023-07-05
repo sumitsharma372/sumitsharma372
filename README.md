@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - 👨‍💻 Enthusiastic and ambitious Full Stack Developer
 - 🌱 I’m currently learning Cybersecurity
 - 👦 Personal Portfolio : [myinfo](https://myinfo-sks.vercel.app)
-- 🏸 Hobbies - Playing badminton and video games, listening to music
+- 🧑🏻‍💻 In my free time, I solve problems on Leetcode and Codestudio
 
 
