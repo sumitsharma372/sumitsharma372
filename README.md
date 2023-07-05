@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
-  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=random)
+  <img src="[https://readme-jokes.vercel.app/api](https://readme-jokes.vercel.app/api?hideBorder&theme=random)" alt="Jokes Card" />
 </div>
 
 <hr/>
