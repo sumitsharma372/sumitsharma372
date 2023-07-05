@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-  <img width="90%" src="https://readme-jokes.vercel.app/api?&theme=nightOwl" alt="Jokes Card" />
+  <img width="80%" src="https://readme-jokes.vercel.app/api?&theme=nightOwl" alt="Jokes Card" />
 
 <hr/>
 
