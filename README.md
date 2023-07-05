@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 <br/>
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <hr/>
 
 - 👨‍💻 Enthusiastic and ambitious Full Stack Developer
