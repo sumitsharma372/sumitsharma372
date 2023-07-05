@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=random)
+<div align="center">
+  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=random)
+</div>
 
 <hr/>
 
