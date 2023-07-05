@@ -28,4 +28,8 @@ Here are some ideas to get you started:
 - 👦 Personal Portfolio : [myinfo](https://myinfo-sks.vercel.app)
 - 🧑🏻‍💻 In my free time, I solve problems on Leetcode and Codestudio
 
+  <div align="center">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+  </div>
+
 
