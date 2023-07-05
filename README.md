@@ -8,6 +8,11 @@ Here are some ideas to get you started:
 
 -->
 
+  <div align="center">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+  </div>
+
+
 
 <div id="badges">
   <a target="_blank" href="https://www.linkedin.com/in/sumit-sharma-b8a396227">
@@ -27,9 +32,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Cybersecurity
 - 👦 Personal Portfolio : [myinfo](https://myinfo-sks.vercel.app)
 - 🧑🏻‍💻 In my free time, I solve problems on Leetcode and Codestudio
-
-  <div align="center">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
-  </div>
 
 
