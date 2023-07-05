@@ -55,4 +55,5 @@ Here are some ideas to get you started:
 </div>
 
 <h3>🔥My Stats: </h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumitsharma372&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sumitsharma372&theme=dark&background=000000)](https://git.io/streak-stats)
